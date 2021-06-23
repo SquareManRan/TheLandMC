@@ -43,3 +43,5 @@ markdown_extensions:
 
 plugins:
   - search
+  
+edit_uri: edit/main/docs/
