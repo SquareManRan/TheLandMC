@@ -1,8 +1,8 @@
 site_name: OPS233-Minecraft
 site_url: https://squaremanran.github.io/OPS233-mc-pages/
 
-repo_url: https://github.com/SquareManRan/OPS233-Minecraft
-repo_name: SquareManRan/OPS233-Minecraft
+repo_url: https://github.com/SquareManRan/OPS233-mc-pages
+repo_name: SquareManRan/OPS233-mc-pages
 
 nav:
   - index.md
