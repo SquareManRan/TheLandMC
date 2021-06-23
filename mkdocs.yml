@@ -1,0 +1,45 @@
+site_name: OPS233-Minecraft
+site_url: https://squaremanran.github.io/OPS233-mc-pages/
+
+repo_url: https://github.com/SquareManRan/OPS233-Minecraft
+repo_name: SquareManRan/OPS233-Minecraft
+
+nav:
+  - index.md
+  - Bedrock:
+    - bedrock/windows10-mobile.md
+    - bedrock/xbox.md
+    - bedrock/switch.md
+  - Mods:
+    - mods/voicechat.md
+    - mods/armorstandeditor.md
+    - mods/autocrafting.md
+    - mods/ledger.md
+
+theme:
+  name: material
+  logo: assets/ops233gamingclub.png
+  favicon: assets/ops233gamingclub.png
+  features:
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: blue grey
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: blue grey
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+plugins:
+  - search
