@@ -12,7 +12,7 @@ As you can tell, something looks a bit different. Some of you may recognize that
 But don't worry! It only continues for a little over 300 blocks in each direction. After that, the farlands taper off, blending into the surrounding terrain.
 The rest of the server is 100% vanilla 1.18.1 world generation. The only thing changed is the center overworld spawn.
 
-Spawn protection rules:
+## Spawn protection rules
 - Players cannot be hurt within center spawn protection.
 - Blocks cannot be broken nor placed within center spawn protection.
 - No kinds of mobs, peaceful or hostile, spawn within center spawn protection. Any mobs that are alredy there, you cannot hurt.

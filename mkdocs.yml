@@ -11,11 +11,11 @@ nav:
     - bedrock/xbox.md
     - bedrock/switch.md
   - Features:
+    - features/spawn.md
     - features/voicechat.md
     - features/armorstandeditor.md
     - features/autocrafting.md
     - features/deepslate-instamine.md
-    - features/spawn.md
 
 theme:
   name: material
