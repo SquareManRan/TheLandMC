@@ -30,7 +30,7 @@ If you would like to join and play on the server:
 ## How are bedrock players able to play on the java server?
 
 We use a mod called [Geyser](https://geysermc.org/) that translates bedrock players' incoming and outgoing data so that it can be read and processed by the java server.
-Beware there a few known inconsistencies, the main one being that certian crafting recipies sadly don't seem to work for bedrock players on the server. A few examples are redstone comparators, sticky pistons, and hoppers.
+Beware there are few known inconsistencies, the main one being that certain crafting recipies sadly don't seem to work for bedrock players on the server. A few examples are redstone comparators, sticky pistons, and hoppers.
 
 ## Extra Cool Features
 
