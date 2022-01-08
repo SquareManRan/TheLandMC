@@ -5,16 +5,17 @@ repo_url: https://github.com/SquareManRan/OPS233-mc-pages
 repo_name: SquareManRan/OPS233-mc-pages
 
 nav:
-  - index.md
+  - home.md
   - Bedrock:
     - bedrock/windows10-mobile.md
     - bedrock/xbox.md
     - bedrock/switch.md
-  - Mods:
-    - mods/voicechat.md
-    - mods/armorstandeditor.md
-    - mods/autocrafting.md
-    - mods/ledger.md
+  - Features:
+    - features/voicechat.md
+    - features/armorstandeditor.md
+    - features/autocrafting.md
+    - features/deepslate-instamine.md
+    - features/spawn.md
 
 theme:
   name: material
