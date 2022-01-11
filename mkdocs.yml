@@ -5,7 +5,7 @@ repo_url: https://github.com/SquareManRan/OPS233-mc-pages
 repo_name: SquareManRan/OPS233-mc-pages
 
 nav:
-  - home.md
+  - index.md
   - Bedrock:
     - bedrock/windows10-mobile.md
     - bedrock/xbox.md
