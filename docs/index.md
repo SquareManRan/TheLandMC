@@ -16,7 +16,7 @@ If you would like to join and play on the server:
     1. Attempt to connect to the Minecraft server, and stay on the screen that pops up.
     2. Join and open the OPS233 Gaming Club discord server.
     3. Navigate to the `minecraft-server-chat` text channel.
-    4. In this channel, type `/join code: ` followed by the code that is given to you in the link screen on Minecraft.
+    4. In this channel, type `/link code: ` followed by the code that is given to you in the link screen on Minecraft. Make sure that there is a space after the colon and before your code.
     5. Assuming you typed in the message correctly, your minecraft account should now be linked to your discord account, and you can try again to connect to the server and play.
 - Don't worry, this information is not sent anywhere. This just keeps track on the management side of things what discord username aligns to which Minecraft accounts, for moderation purposes only.
 
