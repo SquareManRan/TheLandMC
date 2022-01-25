@@ -21,6 +21,6 @@ To do so:
 2. Connect to any of the "Featured Servers" in the top section of the list
 3. Once you connect to that large server, a menu will pop up allowing you to add a server of your choosing
 4. From this new menu, (which you have access to because of the setting applied a few moments ago) press the `Connect to a Server` button
-5. This will switch you to a new window. Type `ops233.duckdns.org` into the `Server Address` bar, and leave the port as `19132`, which is what it should be by default
+5. This will switch you to a new window. Type `OPS233.ddns.net` into the `Server Address` bar, and leave the port as `19132`, which is what it should be by default
 6. To more easily connect to the server in the future, tick the `Add to server list` option on at the bottom of the menu
 7. Press submit to connect to the server and play!
