@@ -35,7 +35,6 @@ Beware there are few known inconsistencies, the main one being that certain craf
 ## Extra Cool Features
 
 - We use many performance-enhancing mods on the server to keep the lag down, and the fun up. A couple of those being [Lithium](https://github.com/CaffeineMC/lithium-fabric), and [Starlight](https://github.com/PaperMC/Starlight)
-- Optional proximity voice chat! Sadly only for java players to enjoy, as it requires a mod to be installed on the player-end to join in on the fun. Head over to the `Voice Chat` section under `Features` for more info.
 - Extremely configurable and positionable armor stands, head over to its section under `Features` for more info.
 - Crafting tables have hopper support, meaning you can hook them up to complex redstone circuits and have them craft items automatically in farms and such. Head over to the `Auto Crafting` tab under `Features` for more info.
 - Deepslate and logs are able to be insta-mined on this server. For more information on the necessary steps to achieve this, head over to the `Deepslate / Logs Instamine` tab under `Features`.
