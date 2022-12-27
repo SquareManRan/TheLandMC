@@ -1,8 +1,7 @@
-site_name: OPS233-Minecraft
-site_url: https://squaremanran.github.io/OPS233-mc-pages/
-
-repo_url: https://github.com/SquareManRan/OPS233-mc-pages
-repo_name: SquareManRan/OPS233-mc-pages
+site_name: The Land - Minecraft Server Documentation
+site_url: https://squaremanran.github.io/thelandmc
+repo_name: squaremanran/thelandmc
+repo_url: https://github.com/squaremanran/thelandmc
 
 nav:
   - index.md
@@ -18,20 +17,22 @@ nav:
 
 theme:
   name: material
-  logo: assets/ops233gamingclub.png
-  favicon: assets/ops233gamingclub.png
+  logo:
+  favicon: assets/troll.png
   features:
   icon:
     repo: fontawesome/brands/github
   palette:
     - media: "(prefers-color-scheme: light)"
       primary: blue grey
+      accent: grey
       scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
+    - media: "(prefers-color-scheme: dark)"
       primary: blue grey
+      accent: grey
       scheme: default
       toggle:
         icon: material/weather-night
