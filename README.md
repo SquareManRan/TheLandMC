@@ -1,3 +1,3 @@
 # The Land - Minecraft Server Documentation
 
-https://ransompolley.github.io/TheLandMC/
+Check the [wiki](https://github.com/ransompolley/TheLandMC/wiki) :)
